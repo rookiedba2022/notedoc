@@ -1,8 +1,22 @@
-## 1.1 数据库简介
+> MooC：
+>
+> [数据库系统概论 西安电子科技大学](https://www.icourse163.org/course/XDU-1002199005)
+>
+> 教科书：
+>
+> Abraham Silberschatz, Henry F. Korth, S.Sudarshan, Database System Concepts (6th ed.), The McGraw-Hill Companies, 2011
+>
+> 参考教材：
+>
+> 1. Thomas M. Connolly, et al. Database Systems: A practical approach to Design, Implementation, and Management. 6th edition, Addison-Wesley, 2014 
+>
+> 2. 王珊，萨师煊《数据库系统概论》 高等教育出版社(第5版),2014
+
+## 一、绪论
+
+## 1. 数据库简介
 
 ### 数据(Data)
-
-- 描述
 
 ### 数据库(Database)
 
@@ -23,7 +37,7 @@
   - Data manipulation(Data Manipulation Language DML)
     - 用户利用DML实现对数据库数据的基本操作，如查询、插入、删除和修改等
   - Database running mangement
-    - 在数据库的建立、yun'xing和维护时，由DBMS进行统一管理、统一控制，以确保数据的安全性、完整性、多用户的并发操作，以及发生故障后的系统恢复
+    - 在数据库的建立、运行和维护时，由DBMS进行统一管理、统一控制，以确保数据的安全性、完整性、多用户的并发操作，以及发生故障后的系统恢复
 
 ### 模式，外模式，内模式(Schema, External Schema, Physcial Schema)
 
@@ -55,9 +69,9 @@
   - Application programmers
   - DBA(Database administrator)
 
-## 1.2 数据库发展历史
+## 2 数据库发展历史
 
-文件系统(File System)$\to$
+文件系统(File System)$\to$数据库管理系统
 
 ### 文件系统(File System)
 
@@ -80,9 +94,7 @@
 #### 发展阶段
 
 - 1960s
-  - hierarchical data model)
-
-![image-20220209214926350](D:\sites\notedoc\img\hierarchical_data_model.png)
+  - hierarchical data model
 
 - 1960s
   - network data model
@@ -98,4 +110,6 @@
   - Bigdata and NoSQL
 
 ### 数据库领域的四位图灵奖得主
+
+## 二、关系代数
 
