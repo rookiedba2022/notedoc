@@ -1,5 +1,5 @@
 你好，欢迎来到扶庆东的个人笔记库，这里记录了一些系统性学习的产物。
 
-这是我的<a href="./resume/resume20220214.pdf" target="blank">简历</a>。
+这是我的<a href="./resume/resume20220222.pdf" target="blank">简历</a>。
 
 我正在找一份MySQL DBA的工作，假如您对我感兴趣，请通过简历中的信息与我联系。
